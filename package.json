@@ -1,0 +1,25 @@
+{
+  "name": "@epam-rd/eslint-config-rd",
+  "version": "0.0.1",
+  "description": "Collection of eslint config for RD unit",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ephim64/eslint-config-rd.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "es6",
+    "node"
+  ],
+  "author": "Ephim Gotsko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ephim64/eslint-config-rd/issues"
+  },
+  "homepage": "https://github.com/ephim64/eslint-config-rd#readme",
+  "peerDependencies": {
+    "eslint": "4.x.x"
+  }
+}
